@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Dumb4Codes/Dumb4Codes/blob/main/wallpaperflare.com_wallpaper%20(1).jpg)](https://dumb4codes.io)
+![MasterHead](https://github.com/Dumb4Codes/Dumb4Codes/blob/main/wallpaperflare.com_wallpaper%20(1).jpg)
 <h1 align="center">Yo 👋, I'm Youvraj Singh</h1>
 <h3 align="center">A passionate code explorer, DSA student and junior developer in training from India</h3>
 <img align="right" alt="Coding" Width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47nguwwbhtcq7x9lpz8bk66dkmafg9hihn298a68jd&ep=v1_gifs_search&rid=giphy.gif&ct=g">
