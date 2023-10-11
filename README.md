@@ -5,17 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumb4codes&label=Profile%20views&color=0e75b6&style=flat" alt="dumb4codes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumb4codes" alt="dumb4codes" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/crypxbug" target="blank"><img src="https://img.shields.io/twitter/follow/crypxbug?logo=twitter&style=for-the-badge" alt="crypxbug" /></a> </p>
-
 - 🌱 I’m currently learning **DSA(just started) and React**
 
 - 💬 Ask me about **Java, JavaScript**
 
 - 📫 How to reach me **youvrajsingh29052002@gmail.com**
 
-- ⚡ Fun fact **I earned my Bachelor of Science in Computer Science in 2023, but it wasn't until recently that I discovered the true significance of programming 🚀. Now, I'm on a journey to turn my passion for coding into a career, and I'm excited to see where this newfound passion will take me!**
+- ⚡ Fun fact **I earned my Bachelor of Science in Computer Science in 2023, but it wasn't until recently that I discovered the true significance of programming 🚀. Now, I'm on a journey to turn my passion for coding into a career, and I'm excited to see where this newfound passion will take me!  🚀😄 #DreamsAndCode 💻😄 #LifeOfADreamer!**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumb4codes" alt="dumb4codes" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/crypxbug" target="blank"><img src="https://img.shields.io/twitter/follow/crypxbug?logo=twitter&style=for-the-badge" alt="crypxbug" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
