@@ -4,23 +4,22 @@
 <img align="right" alt="Coding" Height="300" Width="500" src="https://img.wattpad.com/15b7c31dcc23713ca02151578036889aa7c8b555/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f644e6d4378397837713547584d773d3d2d3139322e313638323834323333336437633764313337333438373834333133362e676966">
 
 
-- 🌱 I’m currently learning **DSA(just started) and React**
+- 🌱 I’m currently  **Building Projects and Learning DSA**
 
 - 💬 Ask me about **Java, JavaScript**
 
-- 📫 How to reach me **youvrajsingh29052002@gmail.com**
+- 📫 How to reach me **youv2002@gmail.com**
 
-- ⚡ Fun fact: **I earned my Bachelor of Science in Computer Science in 2023, but it wasn't until recently that I discovered the true significance of programming 🚀. Now, I'm on a journey to turn my passion for coding into a career, and I'm excited to see where this newfound passion will take me!  🚀😄 #DreamsAndCode 💻😄 #LifeOfADreamer!**
+- ⚡ Fun fact: **I earned my Bachelor of Science in Computer Science in 2023, but it wasn't until recently that I discovered the true significance of programming 🚀.
+- Now, I'm on a journey to turn my passion for coding into a career, and I'm excited to see where this newfound passion will take me!  🚀😄 #DreamsAndCode 💻😄 #LifeOfADreamer!**
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumb4codes" alt="dumb4codes" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/crypxbug" target="blank"><img src="https://img.shields.io/twitter/follow/crypxbug?logo=twitter&style=for-the-badge" alt="crypxbug" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/crypxbug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crypxbug" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dumb4codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dumb4codes" height="30" width="40" /></a>
 </p>
 
